@@ -1,0 +1,17 @@
+C:\Users\rodol\OneDrive\Documents\Tepeu\Covid19Stats\src\main\java\com\covid\covid19stats\config\AppConfig.java
+C:\Users\rodol\OneDrive\Documents\Tepeu\Covid19Stats\src\main\java\com\covid\covid19stats\config\AutomaticThread.java
+C:\Users\rodol\OneDrive\Documents\Tepeu\Covid19Stats\src\main\java\com\covid\covid19stats\controller\ProvinceController.java
+C:\Users\rodol\OneDrive\Documents\Tepeu\Covid19Stats\src\main\java\com\covid\covid19stats\controller\RegionController.java
+C:\Users\rodol\OneDrive\Documents\Tepeu\Covid19Stats\src\main\java\com\covid\covid19stats\controller\ReportController.java
+C:\Users\rodol\OneDrive\Documents\Tepeu\Covid19Stats\src\main\java\com\covid\covid19stats\Covid19Stats.java
+C:\Users\rodol\OneDrive\Documents\Tepeu\Covid19Stats\src\main\java\com\covid\covid19stats\model\ExecutedReport.java
+C:\Users\rodol\OneDrive\Documents\Tepeu\Covid19Stats\src\main\java\com\covid\covid19stats\model\Province.java
+C:\Users\rodol\OneDrive\Documents\Tepeu\Covid19Stats\src\main\java\com\covid\covid19stats\model\Region.java
+C:\Users\rodol\OneDrive\Documents\Tepeu\Covid19Stats\src\main\java\com\covid\covid19stats\model\Report.java
+C:\Users\rodol\OneDrive\Documents\Tepeu\Covid19Stats\src\main\java\com\covid\covid19stats\repository\ExecutedReportRepository.java
+C:\Users\rodol\OneDrive\Documents\Tepeu\Covid19Stats\src\main\java\com\covid\covid19stats\repository\ProvinceRepository.java
+C:\Users\rodol\OneDrive\Documents\Tepeu\Covid19Stats\src\main\java\com\covid\covid19stats\repository\RegionRepository.java
+C:\Users\rodol\OneDrive\Documents\Tepeu\Covid19Stats\src\main\java\com\covid\covid19stats\repository\ReportRepository.java
+C:\Users\rodol\OneDrive\Documents\Tepeu\Covid19Stats\src\main\java\com\covid\covid19stats\service\ProvinceService.java
+C:\Users\rodol\OneDrive\Documents\Tepeu\Covid19Stats\src\main\java\com\covid\covid19stats\service\RegionService.java
+C:\Users\rodol\OneDrive\Documents\Tepeu\Covid19Stats\src\main\java\com\covid\covid19stats\service\ReportService.java
